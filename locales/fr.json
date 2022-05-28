@@ -1,0 +1,6 @@
+{
+    "DATABASE": {
+        "RECORD_FETCH": "record fetched",
+        "SOMETHING_WENT_WRONG": "something went wrong"
+    }
+}
